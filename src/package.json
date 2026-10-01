@@ -689,7 +689,7 @@
 		"simple-git": "^3.27.0",
 		"socket.io-client": "^4.8.1",
 		"sound-play": "^1.1.0",
-		"stream-json": "^1.8.0",
+		"stream-json": "^3.5.0",
 		"string-similarity": "^4.0.4",
 		"strip-ansi": "^7.1.0",
 		"strip-bom": "^5.0.0",
@@ -697,7 +697,7 @@
 		"tmp": "^0.2.3",
 		"tree-sitter-wasms": "^0.1.12",
 		"turndown": "^7.2.0",
-		"undici": "^7.13.0",
+		"undici": "^7.29.1",
 		"uri-js": "^4.4.1",
 		"uuid": "^11.1.0",
 		"vscode-material-icons": "^0.1.1",
@@ -741,7 +741,7 @@
 		"tsup": "^8.4.0",
 		"tsx": "^4.19.3",
 		"typescript": "5.8.3",
-		"vitest": "^3.2.3",
+		"vitest": "^5.0.2",
 		"zod-to-ts": "^1.2.0"
 	}
 }
