@@ -632,7 +632,7 @@
 		"@google/genai": "^1.0.0",
 		"@lmstudio/sdk": "^1.1.1",
 		"@mistralai/mistralai": "^1.9.18",
-		"@modelcontextprotocol/sdk": "1.12.0",
+		"@modelcontextprotocol/sdk": "1.31.0",
 		"@qdrant/js-client-rest": "^1.14.0",
 		"@roo-code/cloud": "workspace:^",
 		"@roo-code/ipc": "workspace:^",
@@ -689,7 +689,7 @@
 		"simple-git": "^3.27.0",
 		"socket.io-client": "^4.8.1",
 		"sound-play": "^1.1.0",
-		"stream-json": "^3.5.0",
+		"stream-json": "^3.7.0",
 		"string-similarity": "^4.0.4",
 		"strip-ansi": "^7.1.0",
 		"strip-bom": "^5.0.0",
@@ -697,7 +697,7 @@
 		"tmp": "^0.2.3",
 		"tree-sitter-wasms": "^0.1.12",
 		"turndown": "^7.2.0",
-		"undici": "^7.29.1",
+		"undici": "^7.30.0",
 		"uri-js": "^4.4.1",
 		"uuid": "^11.1.0",
 		"vscode-material-icons": "^0.1.1",
@@ -741,7 +741,7 @@
 		"tsup": "^8.4.0",
 		"tsx": "^4.19.3",
 		"typescript": "5.8.3",
-		"vitest": "^5.0.2",
+		"vitest": "^5.0.3",
 		"zod-to-ts": "^1.2.0"
 	}
 }
